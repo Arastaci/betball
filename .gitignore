@@ -11,4 +11,4 @@ logs/*.txt
 
 # OS specific files
 .DS_Store
-*.swp 
+*.swp

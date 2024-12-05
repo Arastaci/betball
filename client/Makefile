@@ -9,4 +9,4 @@ client: client.c
 clean:
 	rm -f client
 
-.PHONY: all clean 
+.PHONY: all clean
