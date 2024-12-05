@@ -1,0 +1,14 @@
+# Binary files
+client/client
+server/server
+
+# Log files
+logs/*.txt
+
+# IDE files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+*.swp 
