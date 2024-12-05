@@ -23,7 +23,7 @@ BetBall, eğitim amaçlı geliştirilmiş basit bir futbol bahis simülasyon sis
 1. Projeyi klonlayın:
 
 ```bash
-git clone [repo_url]
+git clone [https://github.com/Arastaci/betball.git]
 cd betball
 ```
 
